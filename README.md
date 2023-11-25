@@ -3,7 +3,7 @@
 
 **hi hi, [@zammycube](https://github.com/zammycube) here!** i am a software engineering student who [describe yourself here].
 
-<img src="skills_header.png" width="300">
+# skills!!
 
 i know a few languages, and have worked on projects and stuff. [describe yourself here].
 
