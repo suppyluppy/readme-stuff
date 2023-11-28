@@ -3,15 +3,15 @@
 
 **hi hi, [@zammycube](https://github.com/zammycube) here!** i am a software engineering student who [describe yourself here].
 
-# skills!!
+## 🌈 skills!!
 
 i know a few languages, and have worked on projects and stuff. [describe yourself here].
 
-## interests!!
+## 💖 interests!!
 
 my interests are this and that. [describe yourself here].
 
-## links!!
+## ✨ links!!
 
 consider saying hello, or find other things.
 
