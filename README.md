@@ -13,10 +13,16 @@ my interests are this and that. [describe yourself here].
 
 ## ✨ links!!
 
-consider saying hello, or find other things.
+consider saying hello, or find a list of things i love.
 
-[socials](github.com)
+❤️ [socials](github.com)
 <br>
-[um, other stuff](github.com)
+🧡 [um, other stuff](github.com)
 <br>
-[maybe other stuff?](github.com)
+💛 [maybe even more stuff?](github.com)
+<br>
+💚 [link to a site i love](github.com)
+<br>
+💙 [any link](github.com)
+<br>
+💜 [anything?!!](github.com)
